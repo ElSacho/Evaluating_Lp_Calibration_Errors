@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+lightgbm
+catboost
+pytabkit
+tabpfn
+probmetrics
+xrfm
+tabicl
+pytorch-minimize
+openml
